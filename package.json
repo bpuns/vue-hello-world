@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "2.8.4"
+  }
+}
